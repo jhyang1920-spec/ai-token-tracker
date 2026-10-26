@@ -33,6 +33,8 @@ jobs:
           else
             python openrouter_weekly_tokens.py --out-dir openrouter_data
           fi
+      - name: Build artifact JSON
+        run: python build_artifact_json.py --data-dir openrouter_data --out-dir openrouter_data
       - name: Commit results
         run: |
           git config user.name "github-actions"
