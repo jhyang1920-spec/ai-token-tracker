@@ -5750,7 +5750,7 @@ week_start,days,complete_week,rank,author,model_permaslug,model_group,total_toke
 2026-10-19,7,True,1,deepseek,deepseek/deepseek-v4.1-flash-20261017,deepseek/deepseek-v4.1-flash,33557427147594,17.846
 2026-10-19,7,True,2,deepseek,deepseek/deepseek-v4.1-flash-20260910,deepseek/deepseek-v4.1-flash,17995120000602,9.57
 2026-10-19,7,True,3,minimax,minimax/minimax-m3.1-flash-20261019:free,minimax/minimax-m3.1-flash:free,13678383021103,7.274
-2026-10-19,7,True,4,z-ai,z-ai/glm-5.3-flash-20260826,z-ai/glm-5.3-flash,13235864687962,7.039
+2026-10-19,7,True,4,z-ai,z-ai/glm-5.3-flash-20260826,z-ai/glm-5.3-flash,13235865834635,7.039
 2026-10-19,7,True,5,tencent,tencent/hy4-preview-20260827,tencent/hy4-preview,8970516891782,4.771
 2026-10-19,7,True,6,openai,openai/gpt-6-luna-20260922,openai/gpt-6-luna,8354785576393,4.443
 2026-10-19,7,True,7,anthropic,anthropic/claude-opus-5.5-20260921,anthropic/claude-opus-5.5,8268439301491,4.397
@@ -5809,6 +5809,6 @@ week_start,days,complete_week,rank,author,model_permaslug,model_group,total_toke
 2026-10-19,7,True,60,openai,openai/gpt-6-luna-decisions-20261006,openai/gpt-6-luna-decisions,58362435535,0.031
 2026-10-19,7,True,61,openai,openai/gpt-5.6-terra-20260709,openai/gpt-5.6-terra,53322379276,0.028
 2026-10-19,7,True,62,mistralai,mistralai/mistral-nemo,mistralai/mistral-nemo,46751868350,0.025
-2026-10-19,7,True,63,deepseek,deepseek/deepseek-v3.2-20251201,deepseek/deepseek-v3.2,45182888785,0.024
+2026-10-19,7,True,63,deepseek,deepseek/deepseek-v3.2-20251201,deepseek/deepseek-v3.2,45183031208,0.024
 2026-10-19,7,True,64,stepfun,stepfun/step-3.7-flash-20260528,stepfun/step-3.7-flash,44089223492,0.023
-2026-10-19,7,True,,other,other,other,11651287816615,6.196
+2026-10-19,7,True,,other,other,other,11651491785209,6.196
