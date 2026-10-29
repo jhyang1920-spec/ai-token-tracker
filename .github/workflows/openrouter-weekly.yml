@@ -4,7 +4,7 @@ name: OpenRouter weekly tokens
 
 on:
   schedule:
-    - cron: "0 3 * * 2"   # 매주 화요일 03:00 UTC (한국 12:00) — 지난주(월~일) 확정 후 실행
+    - cron: "03 4 * * *"   # 매일 04:03 UTC (한국 13:03)
   workflow_dispatch:       # 수동 실행 버튼
     inputs:
       start_date:
@@ -35,6 +35,8 @@ jobs:
           fi
       - name: Build artifact JSON
         run: python build_artifact_json.py --data-dir openrouter_data --out-dir openrouter_data
+      - name: Build daily JSON
+        run: python build_daily_json.py --data-dir openrouter_data --out-dir openrouter_data
       - name: Commit results
         run: |
           git config user.name "github-actions"
