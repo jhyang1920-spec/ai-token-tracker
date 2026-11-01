@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-10-31T05:45:27.882Z",
+  "as_of": "2026-11-01T05:49:51.185Z",
   "fetched_range": [
-    "2026-10-22",
-    "2026-10-30"
+    "2026-10-23",
+    "2026-10-31"
   ],
-  "daily_rows": 33966,
-  "citation": "Source: OpenRouter (openrouter.ai/rankings), as of 2026-10-31T05:45:27.882Z. Licensed under CC BY 4.0."
+  "daily_rows": 34017,
+  "citation": "Source: OpenRouter (openrouter.ai/rankings), as of 2026-11-01T05:49:51.185Z. Licensed under CC BY 4.0."
 }
