@@ -5871,7 +5871,7 @@ week_start,days,complete_week,rank,author,model_permaslug,model_group,total_toke
 2026-10-26,7,True,57,anthropic,anthropic/claude-fable-5.1-20260831,anthropic/claude-fable-5.1,56961883131,0.029
 2026-10-26,7,True,58,mistralai,mistralai/mistral-nemo,mistralai/mistral-nemo,48943931505,0.025
 2026-10-26,7,True,,other,other,other,11950857080831,6.173
-2026-11-02,7,True,1,deepseek,deepseek/deepseek-v4.1-flash-20261017,deepseek/deepseek-v4.1-flash,56045495465556,26.75
+2026-11-02,7,True,1,deepseek,deepseek/deepseek-v4.1-flash-20261017,deepseek/deepseek-v4.1-flash,56045495895554,26.75
 2026-11-02,7,True,2,deepseek,deepseek/deepseek-v4.1-flash-20260910,deepseek/deepseek-v4.1-flash,17612176924129,8.406
 2026-11-02,7,True,3,z-ai,z-ai/glm-5.3-flash-20260826,z-ai/glm-5.3-flash,13222277587892,6.311
 2026-11-02,7,True,4,tencent,tencent/hy4-20261104,tencent/hy4,12800211241293,6.109
@@ -5930,4 +5930,4 @@ week_start,days,complete_week,rank,author,model_permaslug,model_group,total_toke
 2026-11-02,7,True,57,anthropic,anthropic/claude-opus-5-20260723,anthropic/claude-opus-5,67353121877,0.032
 2026-11-02,7,True,58,qwen,qwen/qwen3-embedding-8b,qwen/qwen3-embedding-8b,63177583527,0.03
 2026-11-02,7,True,59,thinkingmachines,thinkingmachines/inkling-20260715:free,thinkingmachines/inkling:free,56357211136,0.027
-2026-11-02,7,True,,other,other,other,11433028025429,5.457
+2026-11-02,7,True,,other,other,other,11433137233591,5.457
