@@ -6052,4 +6052,4 @@ week_start,days,complete_week,rank,author,model_permaslug,model_group,total_toke
 2026-11-16,7,True,58,google,google/gemini-4-hydrogen-20261112,google/gemini-4-hydrogen,83947256808,0.027
 2026-11-16,7,True,59,openai,openai/gpt-6-astra-20260903,openai/gpt-6-astra,81049142603,0.026
 2026-11-16,7,True,60,openai,openai/gpt-oss-120b,openai/gpt-oss-120b,80922801299,0.026
-2026-11-16,7,True,,other,other,other,14817603455882,4.706
+2026-11-16,7,True,,other,other,other,14817619426270,4.706
